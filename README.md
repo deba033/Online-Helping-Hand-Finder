@@ -153,7 +153,7 @@ When the 'book' button is clicked for an individual worker, the booking page ope
 - **Smaranava Roy**
 ---
 
-## 📄 License
+## 📄 License and Access
 
-Strictly used for learning purposes. 
+Strictly used for learning purposes. Request for code access. 
 
